@@ -1,0 +1,359 @@
+sample-id	sample_type	sample	genotype	species	resistance	local_sep	SampleID
+B1-16S-Root-endo-16S	RE	Blank	Blank	Blank	Blank		B1-
+B13-16S-Leaf-Endo	LE	Blank	Blank	Blank	Blank		B13
+B14-16S-Root-endo-16S	RE	Blank	Blank	Blank	Blank		B14
+B15-16S-Leafwash-Endo-Endo	LW	Blank	Blank	Blank	Blank		B15
+B2-16S-Root-endo-16S	RE	Blank	Blank	Blank	Blank		B2-
+B3-16S-Root-endo-16S	RE	Blank	Blank	Blank	Blank		B3-
+B4-16S-Leaf-Endo	LE	Blank	Blank	Blank	Blank		B4-
+B5-16S-Leaf-Endo	LE	Blank	Blank	Blank	Blank		B5-
+B6-16S-Leaf-Endo	LE	Blank	Blank	Blank	Blank		B6-
+B7-16S-Rhizo	RH	Blank	Blank	Blank	Blank		B7-
+B8-16S-Rhizo	RH	Blank	Blank	Blank	Blank		B8-
+B9-16S-Leafwash-Endo-Endo	LW	Blank	Blank	Blank	Blank		B9-
+NTC-AMP1-16S-Leaf-Endo	LE	Blank	Blank	Blank	Blank		NTC
+NTC-AMP2-16S-Leaf-Endo	LE	Blank	Blank	Blank	Blank		NTC
+NTC-AMP1-16S-Leafwash-Endo-Endo	LW	Blank	Blank	Blank	Blank		NTC
+NTC-AMP2-16S-Leafwash-Endo-Endo	LW	Blank	Blank	Blank	Blank		NTC
+NTC-Amp1-16S-Root-endo-16S	RE	Blank	Blank	Blank	Blank		NTC
+NTC-Amp2-16S-Root-endo-16S	RE	Blank	Blank	Blank	Blank		NTC
+NTC-Amp1-16S-Rhizo	RH	Blank	Blank	Blank	Blank		NTC
+NTC-Amp2-16S-Rhizo	RH	Blank	Blank	Blank	Blank		NTC
+S01-16S-Leaf-Endo-redo	LE	D411 #4	D411	P. deltoides	deltoides	22.21626763	S1
+S02-16S-Leaf-Endo-redo	LE	D176 #5	D176	P. deltoides	deltoides	22.21626763	S2
+S02-16S-Root-endo-run2	RE	D176 #5	D176	P. deltoides	deltoides	1.357747232	S2
+S1-16S-Leaf-Endo	LE	D411 #4	D411	P. deltoides	deltoides	22.21626763	S1
+S1-16S-Root-endo-16S	RE	D411 #4	D411	P. deltoides	deltoides	10.24832909	S1
+S1-16S-Rhizo	RH	D411 #4	D411	P. deltoides	deltoides	67.90904107	S1
+S15-16S-Leaf-Endo	LE	D411 #15	D411	P. deltoides	deltoides	10.13043043	S15
+S15-16S-Root-endo-16S	RE	D411 #15	D411	P. deltoides	deltoides	3.327697563	S15
+S15-16S-Rhizo	RH	D411 #15	D411	P. deltoides	deltoides	1.737082557	S15
+S16-16S-Root-endo-16S	RE	D176 #11	D176	P. deltoides	deltoides	21.5187914	S16
+S16-16S-Rhizo	RH	D176 #11	D176	P. deltoides	deltoides	106.777483	S16
+S2-16S-Root-endo-16S	RE	D176 #5	D176	P. deltoides	deltoides	63.92525894	S2
+S2-16S-Root-endo-16S_run3	RE	D176 #5	D176	P. deltoides	deltoides	1.357747232	S2
+S2-16S-Rhizo	RH	D176 #5	D176	P. deltoides	deltoides	3.760636915	S2
+S28-16S-Leaf-Endo	LE	D411 #26	D411	P. deltoides	deltoides	5.748122306	S28
+S28-16S-Root-endo-16S	RE	D411 #26	D411	P. deltoides	deltoides	3.854371414	S28
+S28-16S-Rhizo	RH	D411 #26	D411	P. deltoides	deltoides	60.02300099	S28
+S29-16S-Leaf-Endo-redo	LE	D176 #17	D176	P. deltoides	deltoides	35.93452913	S29
+S29-16S-Rhizo	RH	D176 #17	D176	P. deltoides	deltoides	464.1258976	S29
+S46-16S-Leaf-Endo	LE	D411 #8	D411	P. deltoides	deltoides	21.91984465	S46
+S46-16S-Leaf-Endo-redo	LE	D411 #8	D411	P. deltoides	deltoides	21.91984465	S46
+S46-16S-Leafwash-Endo-Endo	LW	D411 #8	D411	P. deltoides	deltoides	5.795886657	S46
+S46-16S-Root-endo-16S	RE	D411 #8	D411	P. deltoides	deltoides	1.82408484	S46
+S46-16S-Rhizo	RH	D411 #8	D411	P. deltoides	deltoides	184.7781493	S46
+S47-16S-Leaf-Endo	LE	D176 #6	D176	P. deltoides	deltoides	6.185454622	S47
+S47-16S-Leaf-Endo-redo	LE	D176 #6	D176	P. deltoides	deltoides	6.185454622	S47
+S47-16S-Leafwash-Endo-Endo	LW	D176 #6	D176	P. deltoides	deltoides	5.335113942	S47
+S47-16S-Root-endo-16S	RE	D176 #6	D176	P. deltoides	deltoides	2.308771532	S47
+S47-16S-Rhizo	RH	D176 #6	D176	P. deltoides	deltoides	29.09750428	S47
+S61-16S-Leaf-Endo	LE	D411 #17	D411	P. deltoides	deltoides	5.315938221	S61
+S61-16S-Leaf-Endo-redo	LE	D411 #17	D411	P. deltoides	deltoides	5.315938221	S61
+S61-16S-Leaf-wash-redo	LW	D411 #17	D411	P. deltoides	deltoides	5.229037422	S61
+S61-16S-Leafwash-16S_run3	LW	D411 #17	D411	P. deltoides	deltoides	5.229037422	S61
+S61-16S-Leafwash-Endo-Endo	LW	D411 #17	D411	P. deltoides	deltoides	5.229037422	S61
+S61-16S-Root-endo-16S	RE	D411 #17	D411	P. deltoides	deltoides	4.857430217	S61
+S61-16S-Rhizo	RH	D411 #17	D411	P. deltoides	deltoides	351.545531	S61
+S62-16S-Leaf-Endo	LE	D176 #8	D176	P. deltoides	deltoides	2.135577456	S62
+S62-16S-Leaf-wash-redo	LW	D176 #8	D176	P. deltoides	deltoides	4.967350211	S62
+S62-16S-Leafwash-16S_run3	LW	D176 #8	D176	P. deltoides	deltoides	4.967350211	S62
+S62-16S-Leafwash-Endo-Endo	LW	D176 #8	D176	P. deltoides	deltoides	4.967350211	S62
+S62-16S-Root-endo-16S	RE	D176 #8	D176	P. deltoides	deltoides	2.247526636	S62
+S62-16S-Rhizo	RH	D176 #8	D176	P. deltoides	deltoides	273.2734687	S62
+S03-16S-Root-endo-redo	RE	GW9823 #5	GW9823	P. trichocarpa	trichocarpa - resistant	11.15151567	S3
+S10-16S-Leaf-Endo	LE	BESC835 #8	BESC835	P. trichocarpa	trichocarpa - resistant	14.91374245	S10
+S10-16S-Root-endo-16S	RE	BESC835 #8	BESC835	P. trichocarpa	trichocarpa - resistant	5.117187725	S10
+S10-16S-Rhizo	RH	BESC835 #8	BESC835	P. trichocarpa	trichocarpa - resistant	415.9736465	S10
+S13-16S-Leaf-Endo	LE	BESC261 corv #6	BESC261	P. trichocarpa	trichocarpa - resistant	8.03134319	S13
+S13-16S-Root-endo-16S	RE	BESC261 corv #6	BESC261	P. trichocarpa	trichocarpa - resistant	63.52854476	S13
+S13-16S-Rhizo	RH	BESC261 corv #6	BESC261	P. trichocarpa	trichocarpa - resistant	741.7501896	S13
+S14-16S-Leaf-Endo	LE	BESC22 corv #3	BESC22	P. trichocarpa	trichocarpa - resistant	4.833551262	S14
+S14-16S-Root-endo-16S	RE	BESC22 corv #3	BESC22	P. trichocarpa	trichocarpa - resistant	15.38220123	S14
+S14-16S-Rhizo	RH	BESC22 corv #3	BESC22	P. trichocarpa	trichocarpa - resistant	34.46620602	S14
+S17-16S-Leaf-Endo	LE	GW9823 #35	GW9823	P. trichocarpa	trichocarpa - resistant	6.603964781	S17
+S17-16S-Leaf-Endo-redo	LE	GW9823 #35	GW9823	P. trichocarpa	trichocarpa - resistant	6.603964781	S17
+S17-16S-Leafwash-Endo-Endo	LW	GW9823 #35	GW9823	P. trichocarpa	trichocarpa - resistant	31.91572532	S17
+S17-16S-Root-endo-16S	RE	GW9823 #35	GW9823	P. trichocarpa	trichocarpa - resistant	1.772668181	S17
+S17-16S-Rhizo	RH	GW9823 #35	GW9823	P. trichocarpa	trichocarpa - resistant	5.634201179	S17
+S24-16S-Root-endo-16S	RE	BESC835 #22	BESC835	P. trichocarpa	trichocarpa - resistant	0.583208082	S24
+S24-16S-Rhizo	RH	BESC835 #22	BESC835	P. trichocarpa	trichocarpa - resistant	77.33820972	S24
+S26-16S-Leaf-Endo	LE	BESC261 corv # 11	BESC261	P. trichocarpa	trichocarpa - resistant	11.85568561	S26
+S26-16S-Leaf-wash-redo	LW	BESC261 corv # 11	BESC261	P. trichocarpa	trichocarpa - resistant	13.59859138	S26
+S26-16S-Leafwash-16S_run3	LW	BESC261 corv # 11	BESC261	P. trichocarpa	trichocarpa - resistant	13.59859138	S26
+S26-16S-Leafwash-Endo-Endo	LW	BESC261 corv # 11	BESC261	P. trichocarpa	trichocarpa - resistant	13.59859138	S26
+S26-16S-Root-endo-16S	RE	BESC261 corv # 11	BESC261	P. trichocarpa	trichocarpa - resistant	254.9769811	S26
+S26-16S-Rhizo	RH	BESC261 corv # 11	BESC261	P. trichocarpa	trichocarpa - resistant	18.20878007	S26
+S27-16S-Leaf-Endo	LE	BESC22 corv #7	BESC22	P. trichocarpa	trichocarpa - resistant	19.78205478	S27
+S27-16S-Leaf-Endo-redo	LE	BESC22 corv #7	BESC22	P. trichocarpa	trichocarpa - resistant	19.78205478	S27
+S27-16S-Leaf-wash-redo	LW	BESC22 corv #7	BESC22	P. trichocarpa	trichocarpa - resistant	3.746570818	S27
+S27-16S-Leafwash-16S_run3	LW	BESC22 corv #7	BESC22	P. trichocarpa	trichocarpa - resistant	3.746570818	S27
+S27-16S-Leafwash-Endo-Endo	LW	BESC22 corv #7	BESC22	P. trichocarpa	trichocarpa - resistant	3.746570818	S27
+S27-16S-Root-endo-16S	RE	BESC22 corv #7	BESC22	P. trichocarpa	trichocarpa - resistant	8.756175315	S27
+S27-16S-Rhizo	RH	BESC22 corv #7	BESC22	P. trichocarpa	trichocarpa - resistant	239.8834725	S27
+S3-16S-Leaf-Endo	LE	GW9823 #5	GW9823	P. trichocarpa	trichocarpa - resistant	28.41957414	S3
+S3-16S-Root-endo-16S	RE	GW9823 #5	GW9823	P. trichocarpa	trichocarpa - resistant	11.15151567	S3
+S3-16S-Root-endo-16S_run3	RE	GW9823 #5	GW9823	P. trichocarpa	trichocarpa - resistant	11.15151567	S3
+S3-16S-Rhizo	RH	GW9823 #5	GW9823	P. trichocarpa	trichocarpa - resistant	13.84043381	S3
+S30-16S-Leaf-Endo	LE	GW9823 #49	GW9823	P. trichocarpa	trichocarpa - resistant	35.51084874	S30
+S30-16S-Leaf-wash-redo	LW	GW9823 #49	GW9823	P. trichocarpa	trichocarpa - resistant	4.62866239	S30
+S30-16S-Leafwash-16S_run3	LW	GW9823 #49	GW9823	P. trichocarpa	trichocarpa - resistant	4.62866239	S30
+S30-16S-Leafwash-Endo-Endo	LW	GW9823 #49	GW9823	P. trichocarpa	trichocarpa - resistant	4.62866239	S30
+S30-16S-Root-endo-16S	RE	GW9823 #49	GW9823	P. trichocarpa	trichocarpa - resistant	1.251887493	S30
+S30-16S-Rhizo	RH	GW9823 #49	GW9823	P. trichocarpa	trichocarpa - resistant	18.28847165	S30
+S37-16S-Leaf-Endo	LE	BESC835 #42	BESC835	P. trichocarpa	trichocarpa - resistant	2.974522715	S37
+S37-16S-Leaf-Endo-redo	LE	BESC835 #42	BESC835	P. trichocarpa	trichocarpa - resistant	2.974522715	S37
+S37-16S-Leaf-wash-run2	LW	BESC835 #42	BESC835	P. trichocarpa	trichocarpa - resistant	176.3759027	S37
+S37-16S-Leafwash-16S_run3	LW	BESC835 #42	BESC835	P. trichocarpa	trichocarpa - resistant	176.3759027	S37
+S37-16S-Leafwash-Endo-Endo	LW	BESC835 #42	BESC835	P. trichocarpa	trichocarpa - resistant	176.3759027	S37
+S37-16S-Root-endo-16S	RE	BESC835 #42	BESC835	P. trichocarpa	trichocarpa - resistant	2.251397661	S37
+S37-16S-Root-endo-16S_run3	RE	BESC835 #42	BESC835	P. trichocarpa	trichocarpa - resistant	2.251397661	S37
+S37-16S-Rhizo	RH	BESC835 #42	BESC835	P. trichocarpa	trichocarpa - resistant	87.04614936	S37
+S38-16S-Leaf-Endo	LE	BESC261 corv #15	BESC261	P. trichocarpa	trichocarpa - resistant	6.581849476	S38
+S38-16S-Leaf-wash-run2	LW	BESC261 corv #15	BESC261	P. trichocarpa	trichocarpa - resistant	15.47884833	S38
+S38-16S-Leafwash-16S_run3	LW	BESC261 corv #15	BESC261	P. trichocarpa	trichocarpa - resistant	15.47884833	S38
+S38-16S-Leafwash-Endo-Endo	LW	BESC261 corv #15	BESC261	P. trichocarpa	trichocarpa - resistant	15.47884833	S38
+S38-16S-Root-endo-16S	RE	BESC261 corv #15	BESC261	P. trichocarpa	trichocarpa - resistant	13.77722283	S38
+S38-16S-Root-endo-run2	RE	BESC261 corv #15	BESC261	P. trichocarpa	trichocarpa - resistant	13.77722283	S38
+S38-16S-Rhizo	RH	BESC261 corv #15	BESC261	P. trichocarpa	trichocarpa - resistant	223.2442583	S38
+S39-16S-Leaf-Endo-redo	LE	BESC22 corv #15	BESC22	P. trichocarpa	trichocarpa - resistant	131.8144694	S39
+S39-16S-Leaf-wash-run2	LW	BESC22 corv #15	BESC22	P. trichocarpa	trichocarpa - resistant	5.040801361	S39
+S39-16S-Leafwash-16S_run3	LW	BESC22 corv #15	BESC22	P. trichocarpa	trichocarpa - resistant	5.040801361	S39
+S39-16S-Leafwash-Endo-Endo	LW	BESC22 corv #15	BESC22	P. trichocarpa	trichocarpa - resistant	5.040801361	S39
+S39-16S-Root-endo-16S	RE	BESC22 corv #15	BESC22	P. trichocarpa	trichocarpa - resistant	4.824246293	S39
+S39-16S-Root-endo-redo	RE	BESC22 corv #15	BESC22	P. trichocarpa	trichocarpa - resistant	4.824246293	S39
+S39-16S-Rhizo	RH	BESC22 corv #15	BESC22	P. trichocarpa	trichocarpa - resistant	5.003049531	S39
+S4-16S-Leaf-Endo	LE	GW9823 corv #5	GW9823	P. trichocarpa	trichocarpa - resistant	12.95857431	S4
+S4-16S-Root-endo-16S	RE	GW9823 corv #5	GW9823	P. trichocarpa	trichocarpa - resistant	0.329743941	S4
+S4-16S-Rhizo	RH	GW9823 corv #5	GW9823	P. trichocarpa	trichocarpa - resistant	10.52880119	S4
+S40-16S-Leaf-Endo-redo	LE	BESC835 corv #1	BESC835	P. trichocarpa	trichocarpa - resistant	27.76437149	S40
+S40-16S-Leaf-wash-run2	LW	BESC835 corv #1	BESC835	P. trichocarpa	trichocarpa - resistant	14.71195425	S40
+S40-16S-Leafwash-16S_run3	LW	BESC835 corv #1	BESC835	P. trichocarpa	trichocarpa - resistant	14.71195425	S40
+S40-16S-Leafwash-Endo-Endo	LW	BESC835 corv #1	BESC835	P. trichocarpa	trichocarpa - resistant	14.71195425	S40
+S40-16S-Root-endo-16S	RE	BESC835 corv #1	BESC835	P. trichocarpa	trichocarpa - resistant	30.79289945	S40
+S40-16S-Root-endo-run2	RE	BESC835 corv #1	BESC835	P. trichocarpa	trichocarpa - resistant	30.79289945	S40
+S40-16S-Rhizo	RH	BESC835 corv #1	BESC835	P. trichocarpa	trichocarpa - resistant	7.808544352	S40
+S41-16S-Leaf-Endo	LE	BESC835 corv #5	BESC835	P. trichocarpa	trichocarpa - resistant	16.54211131	S41
+S41-16S-Leaf-Endo-redo	LE	BESC835 corv #5	BESC835	P. trichocarpa	trichocarpa - resistant	16.54211131	S41
+S41-16S-Leafwash-16S_run3	LW	BESC835 corv #5	BESC835	P. trichocarpa	trichocarpa - resistant	2.39799449	S41
+S41-16S-Leafwash-Endo-Endo	LW	BESC835 corv #5	BESC835	P. trichocarpa	trichocarpa - resistant	2.39799449	S41
+S41-16S-Root-endo-16S	RE	BESC835 corv #5	BESC835	P. trichocarpa	trichocarpa - resistant	28.26388923	S41
+S41-16S-Root-endo-16S_run3	RE	BESC835 corv #5	BESC835	P. trichocarpa	trichocarpa - resistant	28.26388923	S41
+S41-16S-Rhizo	RH	BESC835 corv #5	BESC835	P. trichocarpa	trichocarpa - resistant	4.980130795	S41
+S42-16S-Leaf-Endo	LE	BESC835 corv #12	BESC835	P. trichocarpa	trichocarpa - resistant	13.38783318	S42
+S42-16S-Leafwash-16S_run3	LW	BESC835 corv #12	BESC835	P. trichocarpa	trichocarpa - resistant	1.701678941	S42
+S42-16S-Leafwash-Endo-Endo	LW	BESC835 corv #12	BESC835	P. trichocarpa	trichocarpa - resistant	1.701678941	S42
+S42-16S-Root-endo-16S	RE	BESC835 corv #12	BESC835	P. trichocarpa	trichocarpa - resistant	0.183878764	S42
+S42-16S-Root-endo-redo	RE	BESC835 corv #12	BESC835	P. trichocarpa	trichocarpa - resistant	0.183878764	S42
+S42-16S-Rhizo	RH	BESC835 corv #12	BESC835	P. trichocarpa	trichocarpa - resistant	6.119474214	S42
+S48-16S-Leaf-Endo	LE	GW9823 #13	GW9823	P. trichocarpa	trichocarpa - resistant	1.387607055	S48
+S48-16S-Leafwash-Endo-Endo	LW	GW9823 #13	GW9823	P. trichocarpa	trichocarpa - resistant	3.890142968	S48
+S48-16S-Root-endo-16S	RE	GW9823 #13	GW9823	P. trichocarpa	trichocarpa - resistant	13.48515194	S48
+S48-16S-Rhizo	RH	GW9823 #13	GW9823	P. trichocarpa	trichocarpa - resistant	28.11837795	S48
+S49-16S-Leaf-Endo	LE	GW9823 corv #1	GW9823	P. trichocarpa	trichocarpa - resistant	36.8968269	S49
+S49-16S-Leafwash-Endo-Endo	LW	GW9823 corv #1	GW9823	P. trichocarpa	trichocarpa - resistant	3.152914105	S49
+S49-16S-Root-endo-16S	RE	GW9823 corv #1	GW9823	P. trichocarpa	trichocarpa - resistant	38.78851497	S49
+S49-16S-Rhizo	RH	GW9823 corv #1	GW9823	P. trichocarpa	trichocarpa - resistant	18.95166492	S49
+S56-16S-Leaf-Endo	LE	BESC835 #11	BESC835	P. trichocarpa	trichocarpa - resistant	9.618791906	S56
+S56-16S-Leafwash-Endo-Endo	LW	BESC835 #11	BESC835	P. trichocarpa	trichocarpa - resistant	4.832976269	S56
+S56-16S-Root-endo-16S	RE	BESC835 #11	BESC835	P. trichocarpa	trichocarpa - resistant	15.06280685	S56
+S56-16S-Rhizo	RH	BESC835 #11	BESC835	P. trichocarpa	trichocarpa - resistant	22.77803681	S56
+S59-16S-Leaf-Endo	LE	BESC261 corv #4	BESC261	P. trichocarpa	trichocarpa - resistant	53.97279777	S59
+S59-16S-Leafwash-Endo-Endo	LW	BESC261 corv #4	BESC261	P. trichocarpa	trichocarpa - resistant	6.289679789	S59
+S59-16S-Root-endo-16S	RE	BESC261 corv #4	BESC261	P. trichocarpa	trichocarpa - resistant	1.725176354	S59
+S59-16S-Rhizo	RH	BESC261 corv #4	BESC261	P. trichocarpa	trichocarpa - resistant	631.5175789	S59
+S60-16S-Leaf-Endo	LE	BESC22 corv #4	BESC22	P. trichocarpa	trichocarpa - resistant	4.799595313	S60
+S60-16S-Leaf-Endo-redo	LE	BESC22 corv #4	BESC22	P. trichocarpa	trichocarpa - resistant	4.799595313	S60
+S60-16S-Leafwash-Endo-Endo	LW	BESC22 corv #4	BESC22	P. trichocarpa	trichocarpa - resistant	7.422916666	S60
+S60-16S-Root-endo-16S	RE	BESC22 corv #4	BESC22	P. trichocarpa	trichocarpa - resistant	30.82474823	S60
+S60-16S-Rhizo	RH	BESC22 corv #4	BESC22	P. trichocarpa	trichocarpa - resistant	201.0228171	S60
+S63-16S-Leaf-Endo	LE	GW9823 #28	GW9823	P. trichocarpa	trichocarpa - resistant	9.31498932	S63
+S63-16S-Leafwash-Endo-Endo	LW	GW9823 #28	GW9823	P. trichocarpa	trichocarpa - resistant	3.684953039	S63
+S63-16S-Root-endo-16S	RE	GW9823 #28	GW9823	P. trichocarpa	trichocarpa - resistant	1.643105043	S63
+S63-16S-Rhizo	RH	GW9823 #28	GW9823	P. trichocarpa	trichocarpa - resistant	22.10137965	S63
+S70-16S-Leaf-Endo	LE	BESC835 #30	BESC835	P. trichocarpa	trichocarpa - resistant	2.760806661	S70
+S70-16S-Leaf-Endo-redo	LE	BESC835 #30	BESC835	P. trichocarpa	trichocarpa - resistant	2.760806661	S70
+S70-16S-Leafwash-Endo-Endo	LW	BESC835 #30	BESC835	P. trichocarpa	trichocarpa - resistant	1.432199122	S70
+S70-16S-Root-endo-16S	RE	BESC835 #30	BESC835	P. trichocarpa	trichocarpa - resistant	5.416337609	S70
+S70-16S-Rhizo	RH	BESC835 #30	BESC835	P. trichocarpa	trichocarpa - resistant	2521.01674	S70
+S72-16S-Leaf-Endo	LE	BESC261 corv # 13	BESC261	P. trichocarpa	trichocarpa - resistant	5.991376866	S72
+S72-16S-Leaf-Endo-redo	LE	BESC261 corv # 13	BESC261	P. trichocarpa	trichocarpa - resistant	5.991376866	S72
+S72-16S-Leafwash-Endo-Endo	LW	BESC261 corv # 13	BESC261	P. trichocarpa	trichocarpa - resistant	3.022949258	S72
+S72-16S-Root-endo-16S	RE	BESC261 corv # 13	BESC261	P. trichocarpa	trichocarpa - resistant	7.574450314	S72
+S72-16S-Rhizo	RH	BESC261 corv # 13	BESC261	P. trichocarpa	trichocarpa - resistant	11.04331794	S72
+S73-16S-Leaf-Endo	LE	BESC22 corv #12	BESC22	P. trichocarpa	trichocarpa - resistant	48.55045811	S73
+S73-16S-Leaf-Endo-redo	LE	BESC22 corv #12	BESC22	P. trichocarpa	trichocarpa - resistant	48.55045811	S73
+S73-16S-Leafwash-Endo-Endo	LW	BESC22 corv #12	BESC22	P. trichocarpa	trichocarpa - resistant	2.292811393	S73
+S73-16S-Root-endo-16S	RE	BESC22 corv #12	BESC22	P. trichocarpa	trichocarpa - resistant	5.789584157	S73
+S73-16S-Root-endo-run2	RE	BESC22 corv #12	BESC22	P. trichocarpa	trichocarpa - resistant	5.789584157	S73
+S73-16S-Rhizo	RH	BESC22 corv #12	BESC22	P. trichocarpa	trichocarpa - resistant	139.4195677	S73
+S74-16S-Leaf-Endo	LE	BESC835 corv #2	BESC835	P. trichocarpa	trichocarpa - resistant	5.239998349	S74
+S74-16S-Leaf-Endo-redo	LE	BESC835 corv #2	BESC835	P. trichocarpa	trichocarpa - resistant	5.239998349	S74
+S74-16S-Leaf-wash-redo	LW	BESC835 corv #2	BESC835	P. trichocarpa	trichocarpa - resistant		S74
+S74-16S-Leafwash-Endo-Endo	LW	BESC835 corv #2	BESC835	P. trichocarpa	trichocarpa - resistant		S74
+S74-16S-Root-endo-16S	RE	BESC835 corv #2	BESC835	P. trichocarpa	trichocarpa - resistant	6.225018158	S74
+S74-16S-Rhizo	RH	BESC835 corv #2	BESC835	P. trichocarpa	trichocarpa - resistant	36.19141047	S74
+S75-16S-Leaf-Endo-redo	LE	BESC835 corv #2	BESC835	P. trichocarpa	trichocarpa - resistant	11.61018873	S75
+S75-16S-Leafwash-Endo-Endo	LW	BESC835 corv #14	BESC835	P. trichocarpa	trichocarpa - resistant		S75
+S75-16S-Root-endo-16S	RE	BESC835 corv #14	BESC835	P. trichocarpa	trichocarpa - resistant	3.742396083	S75
+S75-16S-Rhizo	RH	BESC835 corv #14	BESC835	P. trichocarpa	trichocarpa - resistant	290.7476001	S75
+S06-16S-Leaf-wash-redo	LW	BESC71 #9	BESC71	P. trichocarpa	trichocarpa - susceptible	4.906092163	S6
+S09-16S-Leaf-Endo-redo	LE	BESC103 corv #6	BESC103	P. trichocarpa	trichocarpa - susceptible	12.11273681	S9
+S09-16S-Root-endo-run2	RE	BESC103 corv #6	BESC103	P. trichocarpa	trichocarpa - susceptible	0.641162695	S9
+S11-16S-Leaf-Endo	LE	BESC801 #8	BESC801	P. trichocarpa	trichocarpa - susceptible	5.84296101	S11
+S11-16S-Root-endo-16S	RE	BESC801 #8	BESC801	P. trichocarpa	trichocarpa - susceptible	14.81284444	S11
+S11-16S-Rhizo	RH	BESC801 #8	BESC801	P. trichocarpa	trichocarpa - susceptible	349.7029293	S11
+S12-16S-Leaf-Endo	LE	BESC148 corv #4	BESC148	P. trichocarpa	trichocarpa - susceptible	16.9360346	S12
+S12-16S-Root-endo-16S	RE	BESC148 corv #4	BESC148	P. trichocarpa	trichocarpa - susceptible	3.004993447	S12
+S12-16S-Rhizo	RH	BESC148 corv #4	BESC148	P. trichocarpa	trichocarpa - susceptible	212.6697837	S12
+S18-16S-Leaf-Endo	LE	BESC801 #23	BESC801	P. trichocarpa	trichocarpa - susceptible	4.321765062	S18
+S18-16S-Leaf-wash-redo	LW	BESC801 #23	BESC801	P. trichocarpa	trichocarpa - susceptible	7.558942917	S18
+S18-16S-Leafwash-16S_run3	LW	BESC801 #23	BESC801	P. trichocarpa	trichocarpa - susceptible	7.558942917	S18
+S18-16S-Leafwash-Endo-Endo	LW	BESC801 #23	BESC801	P. trichocarpa	trichocarpa - susceptible	7.558942917	S18
+S18-16S-Root-endo-16S	RE	BESC801 #23	BESC801	P. trichocarpa	trichocarpa - susceptible	6.321730905	S18
+S18-16S-Rhizo	RH	BESC801 #23	BESC801	P. trichocarpa	trichocarpa - susceptible	5.742589062	S18
+S19-16S-Leaf-Endo	LE	BESC801 corv #11	BESC801	P. trichocarpa	trichocarpa - susceptible	4.972605764	S19
+S19-16S-Root-endo-16S	RE	BESC801 corv #11	BESC801	P. trichocarpa	trichocarpa - susceptible	8.195487192	S19
+S19-16S-Rhizo	RH	BESC801 corv #11	BESC801	P. trichocarpa	trichocarpa - susceptible	4.021588655	S19
+S20-16S-Leaf-Endo	LE	BESC71 #27	BESC71	P. trichocarpa	trichocarpa - susceptible	36.96740221	S20
+S20-16S-Root-endo-16S	RE	BESC71 #27	BESC71	P. trichocarpa	trichocarpa - susceptible	5.403469343	S20
+S20-16S-Rhizo	RH	BESC71 #27	BESC71	P. trichocarpa	trichocarpa - susceptible	440.246442	S20
+S21-16S-Leaf-Endo	LE	BESC71 corv #10	BESC71	P. trichocarpa	trichocarpa - susceptible	11.76114429	S21
+S21-16S-Leafwash-Endo-Endo	LW	BESC71 corv #10	BESC71	P. trichocarpa	trichocarpa - susceptible	6.282478746	S21
+S21-16S-Root-endo-16S	RE	BESC71 corv #10	BESC71	P. trichocarpa	trichocarpa - susceptible	0.875906555	S21
+S21-16S-Rhizo	RH	BESC71 corv #10	BESC71	P. trichocarpa	trichocarpa - susceptible	478.5575287	S21
+S22-16S-Leaf-Endo	LE	BESC103 #24	BESC103	P. trichocarpa	trichocarpa - susceptible	38.75411179	S22
+S22-16S-Root-endo-16S	RE	BESC103 #24	BESC103	P. trichocarpa	trichocarpa - susceptible	32.39885668	S22
+S22-16S-Rhizo	RH	BESC103 #24	BESC103	P. trichocarpa	trichocarpa - susceptible	23.66453904	S22
+S23-16S-Leaf-Endo	LE	BESC103 corv #12 	BESC103	P. trichocarpa	trichocarpa - susceptible	5.100555743	S23
+S23-16S-Leaf-wash-redo	LW	BESC103 corv #12 	BESC103	P. trichocarpa	trichocarpa - susceptible	6.63889461	S23
+S23-16S-Leafwash-Endo-Endo	LW	BESC103 corv #12 	BESC103	P. trichocarpa	trichocarpa - susceptible	6.63889461	S23
+S23-16S-Root-endo-16S	RE	BESC103 corv #12 	BESC103	P. trichocarpa	trichocarpa - susceptible	7.217839796	S23
+S23-16S-Rhizo	RH	BESC103 corv #12 	BESC103	P. trichocarpa	trichocarpa - susceptible	81.91792962	S23
+S25-16S-Leaf-Endo	LE	BESC148 corv #5	BESC148	P. trichocarpa	trichocarpa - susceptible	5.476572083	S25
+S25-16S-Root-endo-16S	RE	BESC148 corv #5	BESC148	P. trichocarpa	trichocarpa - susceptible	0.821510087	S25
+S25-16S-Rhizo	RH	BESC148 corv #5	BESC148	P. trichocarpa	trichocarpa - susceptible	39.4814872	S25
+S31-16S-Leaf-Endo	LE	BESC801 #44	BESC801	P. trichocarpa	trichocarpa - susceptible	5.241683305	S31
+S31-16S-Leaf-Endo-redo	LE	BESC801 #44	BESC801	P. trichocarpa	trichocarpa - susceptible	5.241683305	S31
+S31-16S-Root-endo-16S	RE	BESC801 #44	BESC801	P. trichocarpa	trichocarpa - susceptible	0.504228399	S31
+S31-16S-Rhizo	RH	BESC801 #44	BESC801	P. trichocarpa	trichocarpa - susceptible	26.76161624	S31
+S33-16S-Leaf-Endo-redo	LE	BESC71 #48	BESC71	P. trichocarpa	trichocarpa - susceptible	12.12225729	S33
+S33-16S-Leaf-wash-redo	LW	BESC71 #48	BESC71	P. trichocarpa	trichocarpa - susceptible	17.19803071	S33
+S33-16S-Leafwash-16S_run3	LW	BESC71 #48	BESC71	P. trichocarpa	trichocarpa - susceptible	17.19803071	S33
+S33-16S-Leafwash-Endo-Endo	LW	BESC71 #48	BESC71	P. trichocarpa	trichocarpa - susceptible	17.19803071	S33
+S33-16S-Root-endo-16S	RE	BESC71 #48	BESC71	P. trichocarpa	trichocarpa - susceptible	1.719918985	S33
+S33-16S-Rhizo	RH	BESC71 #48	BESC71	P. trichocarpa	trichocarpa - susceptible	66.5951607	S33
+S34-16S-Leaf-Endo	LE	BESC71 corv #17	BESC71	P. trichocarpa	trichocarpa - susceptible	11.43580689	S34
+S34-16S-Leaf-wash-run2	LW	BESC71 corv #17	BESC71	P. trichocarpa	trichocarpa - susceptible	19.04471345	S34
+S34-16S-Leafwash-16S_run3	LW	BESC71 corv #17	BESC71	P. trichocarpa	trichocarpa - susceptible	19.04471345	S34
+S34-16S-Leafwash-Endo-Endo	LW	BESC71 corv #17	BESC71	P. trichocarpa	trichocarpa - susceptible	19.04471345	S34
+S34-16S-Root-endo-16S	RE	BESC71 corv #17	BESC71	P. trichocarpa	trichocarpa - susceptible	4.805359442	S34
+S34-16S-Rhizo	RH	BESC71 corv #17	BESC71	P. trichocarpa	trichocarpa - susceptible	33.46580342	S34
+S35-16S-Root-endo-16S	RE	BESC103 #41	BESC103	P. trichocarpa	trichocarpa - susceptible	0.417160944	S35
+S35-16S-Root-endo-redo	RE	BESC103 #41	BESC103	P. trichocarpa	trichocarpa - susceptible	0.417160944	S35
+S35-16S-Rhizo	RH	BESC103 #41	BESC103	P. trichocarpa	trichocarpa - susceptible	90.59949051	S35
+S36-16S-Root-endo-16S	RE	BESC103 corv #14	BESC103	P. trichocarpa	trichocarpa - susceptible	2.761777848	S36
+S36-16S-Rhizo	RH	BESC103 corv #14	BESC103	P. trichocarpa	trichocarpa - susceptible	173.9900884	S36
+S43-16S-Leaf-Endo	LE	BESC148 #5	BESC148	P. trichocarpa	trichocarpa - susceptible	12.91998981	S43
+S43-16S-Leaf-Endo-redo	LE	BESC148 #5	BESC148	P. trichocarpa	trichocarpa - susceptible	12.91998981	S43
+S43-16S-Leafwash-Endo-Endo	LW	BESC148 #5	BESC148	P. trichocarpa	trichocarpa - susceptible	42.98351042	S43
+S43-16S-Root-endo-16S	RE	BESC148 #5	BESC148	P. trichocarpa	trichocarpa - susceptible	0.31275066	S43
+S43-16S-Rhizo	RH	BESC148 #5	BESC148	P. trichocarpa	trichocarpa - susceptible	74.75965836	S43
+S44-16S-Leaf-Endo	LE	BESC148 #11	BESC148	P. trichocarpa	trichocarpa - susceptible	39.58330549	S44
+S44-16S-Leafwash-Endo-Endo	LW	BESC148 #11	BESC148	P. trichocarpa	trichocarpa - susceptible	9.00331614	S44
+S44-16S-Root-endo-16S	RE	BESC148 #11	BESC148	P. trichocarpa	trichocarpa - susceptible	2.312505046	S44
+S44-16S-Rhizo	RH	BESC148 #11	BESC148	P. trichocarpa	trichocarpa - susceptible	77.33514008	S44
+S45-16S-Leaf-Endo	LE	BESC148 #22	BESC148	P. trichocarpa	trichocarpa - susceptible	4.731483311	S45
+S45-16S-Leafwash-Endo-Endo	LW	BESC148 #22	BESC148	P. trichocarpa	trichocarpa - susceptible	5.222910772	S45
+S45-16S-Root-endo-16S	RE	BESC148 #22	BESC148	P. trichocarpa	trichocarpa - susceptible	1.283638594	S45
+S45-16S-Rhizo	RH	BESC148 #22	BESC148	P. trichocarpa	trichocarpa - susceptible	193.9790415	S45
+S5-16S-Leaf-Endo	LE	BESC801 corv #2	BESC801	P. trichocarpa	trichocarpa - susceptible	21.84208036	S5
+S5-16S-Root-endo-16S	RE	BESC801 corv #2	BESC801	P. trichocarpa	trichocarpa - susceptible	6.54056467	S5
+S5-16S-Rhizo	RH	BESC801 corv #2	BESC801	P. trichocarpa	trichocarpa - susceptible	26.77823335	S5
+S50-16S-Leaf-Endo	LE	BESC801#1	BESC801	P. trichocarpa	trichocarpa - susceptible	6.367307793	S50
+S50-16S-Leafwash-Endo-Endo	LW	BESC801#1	BESC801	P. trichocarpa	trichocarpa - susceptible	57.32803007	S50
+S50-16S-Root-endo-16S	RE	BESC801#1	BESC801	P. trichocarpa	trichocarpa - susceptible	0.74454255	S50
+S50-16S-Rhizo	RH	BESC801#1	BESC801	P. trichocarpa	trichocarpa - susceptible	132.3378604	S50
+S51-16S-Leaf-Endo	LE	BESC801 corv #7	BESC801	P. trichocarpa	trichocarpa - susceptible	70.018813	S51
+S51-16S-Leaf-Endo-redo	LE	BESC801 corv #7	BESC801	P. trichocarpa	trichocarpa - susceptible	70.018813	S51
+S51-16S-Leafwash-Endo-Endo	LW	BESC801 corv #7	BESC801	P. trichocarpa	trichocarpa - susceptible	1.354259241	S51
+S51-16S-Root-endo-redo	RE	BESC801 corv #7	BESC801	P. trichocarpa	trichocarpa - susceptible	0.457957677	S51
+S51-16S-Rhizo	RH	BESC801 corv #7	BESC801	P. trichocarpa	trichocarpa - susceptible	1255.018296	S51
+S52-16S-Leaf-Endo	LE	BESC71 #3	BESC71	P. trichocarpa	trichocarpa - susceptible		S52
+S52-16S-Leaf-Endo-redo	LE	BESC71 #3	BESC71	P. trichocarpa	trichocarpa - susceptible		S52
+S52-16S-Leafwash-Endo-Endo	LW	BESC71 #3	BESC71	P. trichocarpa	trichocarpa - susceptible	6.193829546	S52
+S52-16S-Root-endo-16S	RE	BESC71 #3	BESC71	P. trichocarpa	trichocarpa - susceptible	0.420181647	S52
+S52-16S-Rhizo	RH	BESC71 #3	BESC71	P. trichocarpa	trichocarpa - susceptible	607.2633801	S52
+S53-16S-Leaf-Endo	LE	BESC71 corv #14	BESC71	P. trichocarpa	trichocarpa - susceptible	0.891551239	S53
+S53-16S-Leaf-Endo-redo	LE	BESC71 corv #14	BESC71	P. trichocarpa	trichocarpa - susceptible	0.891551239	S53
+S53-16S-Leafwash-Endo-Endo	LW	BESC71 corv #14	BESC71	P. trichocarpa	trichocarpa - susceptible	5.701177751	S53
+S53-16S-Root-endo-16S	RE	BESC71 corv #14	BESC71	P. trichocarpa	trichocarpa - susceptible	1.476303304	S53
+S53-16S-Rhizo	RH	BESC71 corv #14	BESC71	P. trichocarpa	trichocarpa - susceptible	190.076982	S53
+S54-16S-Leaf-Endo	LE	BESC103 #5	BESC103	P. trichocarpa	trichocarpa - susceptible	8.396420294	S54
+S54-16S-Leafwash-Endo-Endo	LW	BESC103 #5	BESC103	P. trichocarpa	trichocarpa - susceptible	5.220935389	S54
+S54-16S-Root-endo-16S	RE	BESC103 #5	BESC103	P. trichocarpa	trichocarpa - susceptible	3.597335878	S54
+S54-16S-Rhizo	RH	BESC103 #5	BESC103	P. trichocarpa	trichocarpa - susceptible	26.16544622	S54
+S55-16S-Leaf-Endo	LE	BESC103 corv #3	BESC103	P. trichocarpa	trichocarpa - susceptible	3.243991698	S55
+S55-16S-Leafwash-Endo-Endo	LW	BESC103 corv #3	BESC103	P. trichocarpa	trichocarpa - susceptible	1.452970301	S55
+S55-16S-Root-endo-16S	RE	BESC103 corv #3	BESC103	P. trichocarpa	trichocarpa - susceptible	2.637791409	S55
+S55-16S-Rhizo	RH	BESC103 corv #3	BESC103	P. trichocarpa	trichocarpa - susceptible	16.5593448	S55
+S57-16S-Leaf-Endo	LE	BESC148 corv #1	BESC148	P. trichocarpa	trichocarpa - susceptible	7.53260633	S57
+S57-16S-Leaf-wash-redo	LW	BESC148 corv #1	BESC148	P. trichocarpa	trichocarpa - susceptible	14.83756551	S57
+S57-16S-Leafwash-16S_run3	LW	BESC148 corv #1	BESC148	P. trichocarpa	trichocarpa - susceptible	14.83756551	S57
+S57-16S-Root-endo-16S	RE	BESC148 corv #1	BESC148	P. trichocarpa	trichocarpa - susceptible	3.75190003	S57
+S57-16S-Rhizo	RH	BESC148 corv #1	BESC148	P. trichocarpa	trichocarpa - susceptible	130.3535452	S57
+S58-16S-Leaf-Endo	LE	BESC148 corv #7	BESC148	P. trichocarpa	trichocarpa - susceptible	19.46842877	S58
+S58-16S-Leafwash-Endo-Endo	LW	BESC148 corv #7	BESC148	P. trichocarpa	trichocarpa - susceptible	8.844634204	S58
+S58-16S-Root-endo-16S	RE	BESC148 corv #7	BESC148	P. trichocarpa	trichocarpa - susceptible	5.977344068	S58
+S58-16S-Rhizo	RH	BESC148 corv #7	BESC148	P. trichocarpa	trichocarpa - susceptible	110.7224996	S58
+S6-16S-Leaf-Endo	LE	BESC71 #9	BESC71	P. trichocarpa	trichocarpa - susceptible	21.38730864	S6
+S6-16S-Leafwash-16S_run3	LW	BESC71 #9	BESC71	P. trichocarpa	trichocarpa - susceptible	4.906092163	S6
+S6-16S-Leafwash-Endo-Endo	LW	BESC71 #9	BESC71	P. trichocarpa	trichocarpa - susceptible	4.906092163	S6
+S6-16S-Root-endo-16S	RE	BESC71 #9	BESC71	P. trichocarpa	trichocarpa - susceptible	3.305247637	S6
+S6-16S-Rhizo	RH	BESC71 #9	BESC71	P. trichocarpa	trichocarpa - susceptible	6.078145662	S6
+S64-16S-Leaf-Endo	LE	BESC801 #29	BESC801	P. trichocarpa	trichocarpa - susceptible	8.814614948	S64
+S64-16S-Leaf-wash-redo	LW	BESC801 #29	BESC801	P. trichocarpa	trichocarpa - susceptible	7.329979582	S64
+S64-16S-Root-endo-16S	RE	BESC801 #29	BESC801	P. trichocarpa	trichocarpa - susceptible	13.56623864	S64
+S64-16S-Rhizo	RH	BESC801 #29	BESC801	P. trichocarpa	trichocarpa - susceptible	46.86017608	S64
+S65-16S-Leaf-Endo	LE	BESC801 corv #14	BESC801	P. trichocarpa	trichocarpa - susceptible	3.578332737	S65
+S65-16S-Leaf-wash-redo	LW	BESC801 corv #14	BESC801	P. trichocarpa	trichocarpa - susceptible	6.698374739	S65
+S65-16S-Leafwash-Endo-Endo	LW	BESC801 corv #14	BESC801	P. trichocarpa	trichocarpa - susceptible	6.698374739	S65
+S65-16S-Root-endo-16S	RE	BESC801 corv #14	BESC801	P. trichocarpa	trichocarpa - susceptible	2.153375154	S65
+S65-16S-Rhizo	RH	BESC801 corv #14	BESC801	P. trichocarpa	trichocarpa - susceptible	153.8003176	S65
+S66-16S-Leaf-Endo	LE	BESC71 #21	BESC71	P. trichocarpa	trichocarpa - susceptible	21.29769698	S66
+S66-16S-Leaf-wash-redo	LW	BESC71 #21	BESC71	P. trichocarpa	trichocarpa - susceptible	1.987570728	S66
+S66-16S-Leafwash-Endo-Endo	LW	BESC71 #21	BESC71	P. trichocarpa	trichocarpa - susceptible	1.987570728	S66
+S66-16S-Root-endo-16S	RE	BESC71 #21	BESC71	P. trichocarpa	trichocarpa - susceptible	10.69260092	S66
+S66-16S-Rhizo	RH	BESC71 #21	BESC71	P. trichocarpa	trichocarpa - susceptible	493.6828887	S66
+S67-16S-Leaf-Endo-redo	LE	BESC71 corv #7	BESC71	P. trichocarpa	trichocarpa - susceptible	4.535637776	S67
+S67-16S-Leafwash-Endo-Endo	LW	BESC71 corv #7	BESC71	P. trichocarpa	trichocarpa - susceptible	2.747587228	S67
+S67-16S-Root-endo-16S	RE	BESC71 corv #7	BESC71	P. trichocarpa	trichocarpa - susceptible	25.1872647	S67
+S67-16S-Rhizo	RH	BESC71 corv #7	BESC71	P. trichocarpa	trichocarpa - susceptible	1061.607834	S67
+S68-16S-Leaf-Endo-redo	LE	BESC103 #27	BESC103	P. trichocarpa	trichocarpa - susceptible	7.133589957	S68
+S68-16S-Leafwash-Endo-Endo	LW	BESC103 #27	BESC103	P. trichocarpa	trichocarpa - susceptible	2450.529284	S68
+S68-16S-Root-endo-16S	RE	BESC103 #27	BESC103	P. trichocarpa	trichocarpa - susceptible	2.255570775	S68
+S68-16S-Rhizo	RH	BESC103 #27	BESC103	P. trichocarpa	trichocarpa - susceptible	827.5580012	S68
+S69-16S-Leaf-Endo	LE	BESC103 corv #9 	BESC103	P. trichocarpa	trichocarpa - susceptible	2.352673619	S69
+S69-16S-Leaf-Endo-redo	LE	BESC103 corv #9 	BESC103	P. trichocarpa	trichocarpa - susceptible	2.352673619	S69
+S69-16S-Leafwash-Endo-Endo	LW	BESC103 corv #9 	BESC103	P. trichocarpa	trichocarpa - susceptible	2677.41949	S69
+S69-16S-Root-endo-16S	RE	BESC103 corv #9 	BESC103	P. trichocarpa	trichocarpa - susceptible	2.396313546	S69
+S69-16S-Rhizo	RH	BESC103 corv #9 	BESC103	P. trichocarpa	trichocarpa - susceptible	1930.956426	S69
+S7-16S-Leaf-Endo	LE	BESC71 corv #5	BESC71	P. trichocarpa	trichocarpa - susceptible		S7
+S7-16S-Root-endo-16S	RE	BESC71 corv #5	BESC71	P. trichocarpa	trichocarpa - susceptible	0.474116149	S7
+S7-16S-Rhizo	RH	BESC71 corv #5	BESC71	P. trichocarpa	trichocarpa - susceptible	6.119711715	S7
+S71-16S-Leaf-Endo	LE	BESC148 corv #9	BESC148	P. trichocarpa	trichocarpa - susceptible	10.83159735	S71
+S71-16S-Leaf-Endo-redo	LE	BESC148 corv #9	BESC148	P. trichocarpa	trichocarpa - susceptible	10.83159735	S71
+S71-16S-Leafwash-Endo-Endo	LW	BESC148 corv #9	BESC148	P. trichocarpa	trichocarpa - susceptible	2.152689115	S71
+S71-16S-Root-endo-16S	RE	BESC148 corv #9	BESC148	P. trichocarpa	trichocarpa - susceptible	3.028620614	S71
+S71-16S-Rhizo	RH	BESC148 corv #9	BESC148	P. trichocarpa	trichocarpa - susceptible	25.09702321	S71
+S76-16S-Leaf-Endo	LE	BESC148 #8	BESC148	P. trichocarpa	trichocarpa - susceptible	4.503068624	S76
+S76-16S-Leaf-Endo-redo	LE	BESC148 #8	BESC148	P. trichocarpa	trichocarpa - susceptible	4.503068624	S76
+S76-16S-Leafwash-Endo-Endo	LW	BESC148 #8	BESC148	P. trichocarpa	trichocarpa - susceptible	2.331930472	S76
+S76-16S-Root-endo-16S	RE	BESC148 #8	BESC148	P. trichocarpa	trichocarpa - susceptible	97.38256256	S76
+S76-16S-Root-endo-redo	RE	BESC148 #8	BESC148	P. trichocarpa	trichocarpa - susceptible	97.38256256	S76
+S76-16S-Rhizo	RH	BESC148 #8	BESC148	P. trichocarpa	trichocarpa - susceptible	311.1391896	S76
+S8-16S-Leaf-Endo	LE	BESC103 #7	BESC103	P. trichocarpa	trichocarpa - susceptible	114.3015045	S8
+S8-16S-Root-endo-16S	RE	BESC103 #7	BESC103	P. trichocarpa	trichocarpa - susceptible	6.624699259	S8
+S8-16S-Rhizo	RH	BESC103 #7	BESC103	P. trichocarpa	trichocarpa - susceptible	168.4698453	S8
+S9-16S-Leaf-Endo	LE	BESC103 corv #6	BESC103	P. trichocarpa	trichocarpa - susceptible	12.11273681	S9
+S9-16S-Rhizo	RH	BESC103 corv #6	BESC103	P. trichocarpa	trichocarpa - susceptible	18.4433423	S9
