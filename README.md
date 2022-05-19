@@ -12,7 +12,7 @@ In Review.
 
 - Raw sequence data can be found in the Sequence Read Archive under project ID <a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA804020">804020</a>.
 
-- Metabolomic and qPCR data as well as data for the scoring of infected Populus is archived in the Dryad repository (<a href="https://doi.org/10.6071/M3CM2F"></a>).
+- Metabolomic and qPCR data as well as data for the scoring of infected Populus is archived in the Dryad repository (<a href="https://doi.org/10.6071/M3CM2F">https://doi.org/10.6071/M3CM2F</a>).
 
 - Or use my pre-made feature, taxonomy, and metadata tables found in this repository
 
