@@ -14,6 +14,6 @@ In Review.
 
 - Metabolomic and qPCR data as well as data for the scoring of infected Populus is archived in the following Dryad repository: <a href="https://doi.org/10.6071/M3CM2F">https://doi.org/10.6071/M3CM2F</a>.
 
-- Or use my pre-made feature, taxonomy, and metadata tables found in this repository
+- Or, use my pre-made feature, taxonomy, and metadata tables found in this repository.
 
 - Please contact Nicholas Dove (ndove7@gmail.com) with any questions or comments. I'm always happy to help :).
